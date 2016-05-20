@@ -10,11 +10,17 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20160520094642.2" a="E"><vh>@path ./../</vh>
+<v t="leo.20160520122012.1"><vh>@edit README.md</vh></v>
 <v t="leo.20160520100813.1" a="E"><vh>@path microblog</vh>
 <v t="leo.20160520101218.1"><vh>@edit run.py</vh></v>
 <v t="leo.20160520100941.1" a="E"><vh>@path app</vh>
 <v t="leo.20160520100941.2"><vh>@edit __init__.py</vh></v>
-<v t="leo.20160520101148.1"><vh>@edit views.py</vh></v>
+<v t="leo.20160520101148.1"><vh>@edit views.py_tutorial</vh></v>
+<v t="leo.20160520111202.1"><vh>@edit views.py</vh></v>
+<v t="leo.20160520110911.1" a="E"><vh>@path templates</vh>
+<v t="leo.20160520121710.1"><vh>@edit base.html</vh></v>
+<v t="leo.20160520111026.1"><vh>@edit index.html</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -23,5 +29,6 @@
 <t tx="leo.20160520094642.2"></t>
 <t tx="leo.20160520100813.1"></t>
 <t tx="leo.20160520100941.1"></t>
+<t tx="leo.20160520110911.1"></t>
 </tnodes>
 </leo_file>
